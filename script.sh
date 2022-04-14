@@ -1,1 +1,4 @@
-echo "hello, today is $(date)" > /tmp/jenkins_test
+echo " Welcome to jenkins world......!!!"
+hostname
+pwd
+sleep 10
