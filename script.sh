@@ -2,4 +2,4 @@ echo " Welcome to jenkins world......!!!"
 hostname
 pwd
 sleep 10
-echo "Current Date:" date
+echo "Current Date changed:" date
